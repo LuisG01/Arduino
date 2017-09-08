@@ -35,7 +35,7 @@ unsigned long hb_timer;
 int aaaaa = 0;
 mavlink_message_t msg;
 
-// ******************************************
+// *****************************************
 
 const int LED = 7;
 const int SENSOR = 8;           // pin de conexion a sensor AVOID
